@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Locale;
-
+ //2.1
 public class aula_LP_1305{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);

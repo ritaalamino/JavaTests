@@ -1,8 +1,7 @@
-import jdk.nashorn.internal.parser.Scanner;
 import java.util.Locale;
 import java.util.Scanner;
 /**
- * aula_LP_1305_2
+ * aula_LP_1305_2 Exercicio 2.2
  */
 public class aula_LP_1305_2 {
 
@@ -17,7 +16,7 @@ public class aula_LP_1305_2 {
         NumA = input.nextDouble();
         NumB = input.nextDouble();
         prod = NumA*NumB;
-        System.out.println("Num: "+Math.floor(prod));
+        System.out.println("El resultado es "+Math.floor(prod));
 
     }
 }
