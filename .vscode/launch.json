@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - aula_LP_2005",
+            "request": "launch",
+            "mainClass": "aula_LP_2005"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - aula_LP_1705_3",
             "request": "launch",
             "mainClass": "aula_LP_1705_3",
