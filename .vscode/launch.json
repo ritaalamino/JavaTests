@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - aula_LP_3105",
+            "request": "launch",
+            "mainClass": "aula_LP_3105",
+            "projectName": "JavaTests_e69eb0be"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - aula_LP_2005",
             "request": "launch",
             "mainClass": "aula_LP_2005"
